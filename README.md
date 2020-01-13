@@ -1,6 +1,6 @@
 # Algorithm and data structures
 
-<p>Hear we can find two apps with sort list.<br>
+<p>Ok, new change in this section! I add 3 codes from my local liblary. <br>
 This chapter will be developed soon</p>
 
 
